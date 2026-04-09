@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mourya</h1>
 <h3 align="center">A passionate Full Stack Developer and Machine Learning enthusiast with experience in building scalable web applications</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mouryaakamp" alt="mouryaakamp" /></a> </p>
 
 - 🌱 I’m currently learning **ML and Devops**
 

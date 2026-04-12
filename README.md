@@ -21,19 +21,19 @@
 
 ---
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/mourya-p-18391b335/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="25"/>
-  <a href="https://gitlab.com/Mouryaakamp" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&color=FC6D26&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
   <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25"/>
+  <a href="https://gitlab.com/Mouryaakamp" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitLab&logo=gitlab&label=&color=FC6D26&logoColor=white&style=for-the-badge" height="25"/>
   </a>
   <a href="https://www.instagram.com/mourya_mp_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 </div>
 

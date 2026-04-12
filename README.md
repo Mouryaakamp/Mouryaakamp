@@ -89,7 +89,8 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Mouryaakamp/Mouryaakamp/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/Mouryaakamp/Mouryaakamp/output/snake.svg" alt="Snake animation" />
+
 
 ---
 

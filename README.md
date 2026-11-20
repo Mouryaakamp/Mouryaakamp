@@ -39,6 +39,17 @@
 
 ---
 
+## 🖥️ Currently building: [CladrisPC](https://www.cladrispc.com)
+
+**[CladrisPC](https://www.cladrispc.com)** is a free **PC parts price comparison and price tracker for India**.
+It compares live prices for the exact same model across 11 Indian stores, with price history,
+price-drop alerts, a PC Builder with compatibility checks, and CPU/GPU/RAM comparisons.
+
+Built with Next.js, PostgreSQL (Neon), Python scrapers and Vercel.
+👉 [See screenshots and features](https://github.com/Mouryaakamp/pc-parts-price-tracker-india)
+
+---
+
 ## 🚀 Tech Stack
 
 ### 💻 Languages

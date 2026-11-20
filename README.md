@@ -46,7 +46,7 @@ It compares live prices for the exact same model across 11 Indian stores, with p
 price-drop alerts, a PC Builder with compatibility checks, and CPU/GPU/RAM comparisons.
 
 Built with Next.js, PostgreSQL (Neon), Python scrapers and Vercel.
-👉 [See screenshots and features](https://github.com/Mouryaakamp/pc-parts-price-tracker-india)
+👉 [See screenshots and all features](https://github.com/Mouryaakamp/pc-parts-price-tracker-india)
 
 ---
 
